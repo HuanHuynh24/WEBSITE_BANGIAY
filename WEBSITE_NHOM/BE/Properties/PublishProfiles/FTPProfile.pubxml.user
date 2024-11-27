@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOHVS+dKp3UCaD9g9KvypWAAAAAACAAAAAAAQZgAAAAEAACAAAAAEveRBWsUY8P44E0kksl+pYguIGnyEXL/gNwDXFbUxTAAAAAAOgAAAAAIAACAAAAAEhg9h8O0QAoh8uN2RaRJfbnTsu9waxu5fV5c4j3pUwSAAAACR6yMBDSCeByWpdEp1DFPBu2e2LBbA90f34tNBWpqa+UAAAABVQ70kpJsJO6czYD/Y8KElyBhPOc0DQV7GbYC9LKhz9mkwBBwpxEnVvjHIw4h1xwl8/VnddU7VYeXuLz51+M2x</EncryptedPassword>
+    <_PublishTargetUrl>ftp://giaythethao365.somee.com/www.giaythethao365.somee.com</_PublishTargetUrl>
+    <History>True|2024-11-27T03:49:27.6167939Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>11/27/2024 10:43:14</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>11/27/2024 10:43:14</publishTime>
+    </File>
+    <File Include="BE.deps.json">
+      <publishTime>11/27/2024 10:48:47</publishTime>
+    </File>
+    <File Include="BE.dll">
+      <publishTime>11/27/2024 10:48:47</publishTime>
+    </File>
+    <File Include="BE.exe">
+      <publishTime>11/27/2024 10:48:47</publishTime>
+    </File>
+    <File Include="BE.pdb">
+      <publishTime>11/27/2024 10:48:47</publishTime>
+    </File>
+    <File Include="BE.runtimeconfig.json">
+      <publishTime>11/27/2024 10:48:47</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/27/2024 10:48:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
